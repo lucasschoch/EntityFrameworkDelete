@@ -1,0 +1,8 @@
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploExclusoes\ExemploExclusoes\bin\Debug\ExemploExclusoes.exe.config
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploExclusoes\ExemploExclusoes\bin\Debug\ExemploExclusoes.exe
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploExclusoes\ExemploExclusoes\bin\Debug\ExemploExclusoes.pdb
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploExclusoes\ExemploExclusoes\bin\Debug\EntityFramework.dll
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploExclusoes\ExemploExclusoes\bin\Debug\EntityFramework.xml
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploExclusoes\ExemploExclusoes\obj\Debug\ExemploExclusoes.csprojResolveAssemblyReference.cache
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploExclusoes\ExemploExclusoes\obj\Debug\ExemploExclusoes.exe
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploExclusoes\ExemploExclusoes\obj\Debug\ExemploExclusoes.pdb
